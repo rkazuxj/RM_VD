@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(7, 1, 43);
+    display: flex;
+    height: 100vh;
+}
+
+a{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 14px;
+    border-radius: 7px;
+}
