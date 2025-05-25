@@ -54,6 +54,7 @@ audio {
     display: block;
     margin: 25px auto 0 auto;
     background-color: rgb(247, 130, 130);
+    border-radius: 5px;
 }
 
 @keyframes slide {
