@@ -27,7 +27,7 @@ footer a{
 }
 
 footer{
-    padding-top: 95px;
+    padding-top: 30px;
 }
 
 .carousel {
@@ -48,6 +48,12 @@ footer{
     object-fit: cover;
     flex-shrink: 0;
     animation: slide 31s infinite;
+}
+
+audio {
+    display: block;
+    margin: 25px auto 0 auto;
+    background-color: rgb(247, 130, 130);
 }
 
 @keyframes slide {
