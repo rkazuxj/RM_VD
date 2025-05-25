@@ -52,6 +52,7 @@ footer{
 
 audio {
     display: block;
+    background-color: rgb(247, 130, 130);
     margin: 25px auto 0 auto;
 }
 
